@@ -1,5 +1,6 @@
 # api-samm--owasp-checker
-![API SAMM OWASP Checker](images/BCO.ce9ff02b-8dfe-4bf4-b66e-bb5f63457528.png)
+![Project Banner](images/BCO.ce9ff02b-8dfe-4bf4-b66e-bb5f63457528.png)
+
 
 
 
