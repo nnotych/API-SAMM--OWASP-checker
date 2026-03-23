@@ -1,4 +1,5 @@
-# demochecker
+# api-samm--owasp-checker
+
 
 **demochecker** is a learning tool for automated REST API verification.  
 It consists of two main parts:
