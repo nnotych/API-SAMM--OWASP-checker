@@ -1,12 +1,7 @@
 # api-samm--owasp-checker
-![Project Banner](picture)
+![Project Banner](ping.jpg)
 
-
-
-
-
-
-**demochecker** is a learning tool for automated REST API verification.  
+**api-samm--owasp-checker** is a learning tool for automated REST API verification.  
 It consists of two main parts:
 - **Lab7** — a test API used as a playground for validation.
 - **Demochecker** — a Python script with Docker infrastructure that runs checks against the API using configuration files and an OpenAPI specification.
