@@ -1,4 +1,4 @@
-# Api-samm--owasp-checker
+# API-SAMM--OWASP-checker
 ![Project Banner](ping.jpg)
 
 **api-samm--owasp-checker** is a learning tool for automated REST API verification.  
